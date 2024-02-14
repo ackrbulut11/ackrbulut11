@@ -1,4 +1,4 @@
-[!MasterHead](https://blogassets.leverageedu.com/blog/wp-content/uploads/2020/06/22210327/BE-Computer-Science.png)
+
 <h1 align="center">Hi 👋, I'm Ahmetcan Karabulut</h1>
 <h3 align="center">A computer science student at Turkish-German University</h3>
 
