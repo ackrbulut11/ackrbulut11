@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ahmetcan Karabulut</h1>
+<h1 align="center">Hi 👋, I'm Ahmetcan</h1>
 <h3 align="center">A computer science student at Turkish-German University</h3>
 
 - 📫 How to reach me **ahmetcankarabulut@yahoo.com**
