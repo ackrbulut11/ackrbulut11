@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Python.<br>- 📫 How to reach me: ahmetcankarabulut@yahoo.com</p>
+<p align="left">- 📚 I'm currently learning Python and Java.<br>- 📫 How to reach me: ahmetcankarabulut@yahoo.com</p>
 
 ###
 
