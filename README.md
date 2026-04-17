@@ -4,14 +4,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/ahmetcankarabulut/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
 <h1 align="left">Hey 👋, I'm Ahmetcan.</h2>
 
 ###
@@ -23,7 +15,8 @@
 <p align="left">I'm a computer engineering student at Turkish-German University.<br>
   <br>- 📱 I’m working on TAÜ Mobil, the official mobile application for Turkish-German University, as part of a team.
   <br>- 🧠 I'm passionate about AI and Machine Learning.
-  <br>- 📝 Currently diving deep into Deep Learning to sharpen my expertise in neural networks.</p>
+  <br>- 📝 Currently diving deep into Deep Learning to sharpen my expertise in neural networks.
+  <br>- 📫 How to reach me: ahmetcankarabulut@yahoo.com </p>
 
 <h3 align="left">🛠 Language and tools</h3>
 
