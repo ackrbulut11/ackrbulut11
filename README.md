@@ -12,7 +12,7 @@
 
 ###
 
-<h2 align="left">Hey 👋, I'm Ahmetcan.</h2>
+<h1 align="left">Hey 👋, I'm Ahmetcan.</h2>
 
 ###
 
