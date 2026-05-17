@@ -18,7 +18,7 @@
   <br>- 📝 Currently diving deep into Deep Learning to sharpen my expertise in neural networks.
   <br>- 📫 How to reach me: ahmetcankarabulut@yahoo.com </p>
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and Tools</h3>
 
 ###
 
