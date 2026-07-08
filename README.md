@@ -45,9 +45,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/gitea/609926 " height="40" alt="gitea logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="colab logo"  />
 </div>
 
 ###
