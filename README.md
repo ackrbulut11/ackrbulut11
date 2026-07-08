@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="40" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
+  <img src="https://cdn.simpleicons.org/androidstudio/RRGGBB" height="40" alt="androidstudio logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="40" alt="colab logo"  />
 </div>
